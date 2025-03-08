@@ -1,0 +1,21 @@
+
+
+.container {
+    display: flex;
+    padding: 16px;
+    border: 1px solid;
+    border-radius: 25px;
+
+    > * {
+        padding: 16px;
+    }
+}
+
+
+.teamPink {
+    border-color: pink;
+}
+.teamBlue {
+    border-color: blue;
+}
+
